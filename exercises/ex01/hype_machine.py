@@ -8,4 +8,3 @@ name: str = input("What Is Your Name? ")
 print(f"You are going to kill it today {name}!")
 print(f"you are going to have a amazing day {name}!!!!")
 print(f"{name} is awesome!!!")
-

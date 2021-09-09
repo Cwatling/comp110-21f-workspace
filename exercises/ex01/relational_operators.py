@@ -1,4 +1,4 @@
-"""Exploring more python operators"""
+"""Exploring more python operators."""
 
 __author__ = "730412366"
 

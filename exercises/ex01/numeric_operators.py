@@ -1,4 +1,4 @@
-"""A program that describes python operators"""
+"""A program that describes python operators."""
 
 __author__ = "730412366"
 
