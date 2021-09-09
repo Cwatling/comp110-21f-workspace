@@ -13,11 +13,11 @@ from random import randint
 
 
 # Begin your solution here...
-random: int = randint(1,4)
+random: int = randint(1, 4)
 
 print("Your fortune cookie says...")
 
-if random  <= 2:
+if random <= 2:
     if random == 1:
         print("You are going to meet and amazing person today!")
     else:
